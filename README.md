@@ -660,7 +660,7 @@ int main() {
 int execve(const char *pathname, char *const argv[], char *const envp[]);
 ```
 </details>
-📄 [Click here to get the full documentation](https://github.com/b2betty//raw/main/OSSP_Individual_Betelhem-Damtew-Tadesse_BDU1601048%20(2).pdf)
+📄 [Click here to get the full documentation](https://github.com/b2betty/OSSP_Individual_Betelhem-Damtew-Tadesse_BDU1601048 (2).pdf/raw/main/OSSP_Individual_Betelhem-Damtew-Tadesse_BDU1601048%20(2).pdf)
 
 
 ## 📥⚙️Installation of Tinycore Linux Operating System
