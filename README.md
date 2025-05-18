@@ -660,8 +660,6 @@ int main() {
 int execve(const char *pathname, char *const argv[], char *const envp[]);
 ```
 </details>
-📄 [Click here to get the full documentation](https://github.com/b2betty/OSSP_Individual_Betelhem-Damtew-Tadesse_BDU1601048 (2).pdf/raw/main/OSSP_Individual_Betelhem-Damtew-Tadesse_BDU1601048%20(2).pdf)
-
 
 ## 📥⚙️Installation of Tinycore Linux Operating System
 ### Downloading the Tiny Core ISO file from the official website is the first step in installing Tiny Core Linux on VirtualBox.  Create a new virtual machine after starting VirtualBox, choose Linux as the operating system type, and set the RAM size to a minimum (e.g., 128MB or more).  To boot into the Tiny Core live environment, connect the downloaded ISO to the virtual CD/DVD drive and turn on the virtual machine.  After booting up, you can use tools like tc-install to install the system to a virtual hard drive and explore the desktop.  Tiny Core Linux operates solely in RAM after setup and reboot, which makes it incredibly quick and light in the virtual machine.
